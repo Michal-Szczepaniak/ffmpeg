@@ -1,8 +1,8 @@
 Name:           ffmpeg
-Version:        5.1.8
+Version:        5.1.10
 Release:        1
 Summary:        FFmpeg video encoding and decoding library
-Url:            http://ffmpeg.org/
+Url:            https://github.com/sailfishos/ffmpeg
 Source:         %{name}-%{version}.tar.bz2
 Source1:        enable_decoders
 Source2:        enable_encoders
